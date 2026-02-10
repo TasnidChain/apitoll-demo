@@ -1,8 +1,12 @@
 # APITOLL Demo — AI Agents Pay for APIs with USDC
 
+> **[apitoll.com](https://apitoll.com)** · **[Main Repo](https://github.com/TasnidChain/APITOLL)** · **[npm](https://www.npmjs.com/package/@apitoll/buyer-sdk)** · **[Live API](https://api.apitoll.com/health)**
+
 Your AI agent calls an API. Gets HTTP 402. Pays $0.001 USDC. Gets the data. Settlement in 2 seconds on Base L2.
 
 No API keys. No signup. No invoices. Just pay and go.
+
+*This is the quick-start demo repo. For the full source, docs, and SDKs see the [main APITOLL repo](https://github.com/TasnidChain/APITOLL).*
 
 ## Quick Start (30 seconds)
 
