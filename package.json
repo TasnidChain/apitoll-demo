@@ -1,0 +1,25 @@
+{
+  "name": "apitoll-demo",
+  "version": "1.0.0",
+  "description": "AI agent pays for APIs with USDC micropayments. 30 seconds to run.",
+  "type": "module",
+  "scripts": {
+    "demo": "npx tsx demo.ts",
+    "demo:pay": "npx tsx demo.ts --pay",
+    "start": "npx tsx demo.ts"
+  },
+  "dependencies": {
+    "@apitoll/buyer-sdk": "^0.1.0-beta.4",
+    "tsx": "^4.19.0"
+  },
+  "keywords": [
+    "ai-agents",
+    "x402",
+    "usdc",
+    "micropayments",
+    "api",
+    "base",
+    "blockchain"
+  ],
+  "license": "MIT"
+}
